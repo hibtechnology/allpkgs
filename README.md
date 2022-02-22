@@ -1,0 +1,2 @@
+# allpkgs
+Installing all pkgs
