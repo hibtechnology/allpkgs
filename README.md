@@ -18,8 +18,7 @@ https://github.com/sadamshr3be/Tmux_pckg/blob/main/Capture%2B_2021-03-05-12-14-2
 pkg install python2 -y
 
 
-• git clone https://github.com/sadamshr3be/Tmux_pckg
-
+• git clone https://github.com/hibtechnology/allpkgs
 
 
 • cd Tmux_pckg
